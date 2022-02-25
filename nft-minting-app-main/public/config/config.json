@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x479508df35e82957E8e4E1Ee814d6f79Bc4A1797",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x479508df35e82957e8e4e1ee814d6f79bc4a1797",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Cloudles",
+  "SYMBOL": "CLD",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cloudles-wbwhuglqq3",
+  "SHOW_BACKGROUND": true
+}
